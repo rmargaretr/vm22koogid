@@ -1,0 +1,17 @@
+:root {
+  --color-variable: rgb(131, 193, 143);
+}
+
+.bg {
+  background-color: var(--color-variable);
+}
+
+footer {
+  background-color: var(--color-variable);
+}
+
+header {
+  background-color: var(--color-variable);
+}
+
+/*# sourceMappingURL=style.css.map */
